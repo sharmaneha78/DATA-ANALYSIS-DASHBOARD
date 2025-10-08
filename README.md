@@ -97,8 +97,8 @@ From this project, I learned:
 **Neha Sharma**  
 🎓 MCA (Data Science) | Aspiring Data Analyst  
 💡 Passionate about Excel, Data Visualization & Business Analytics  
-🔗 [LinkedIn Profile](https://www.linkedin.com/) *(Add your real link)*  
-📧 your.email@example.com
+🔗 [LinkedIn Profile](https://www.linkedin.com/in/neha-s-02a7ba285?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
+📧 sharmaneha3720@gmail.com
 
 ---
 
