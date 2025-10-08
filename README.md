@@ -52,7 +52,7 @@ This dashboard enables users to interactively filter data by **Year** and **Mont
 
 | File Name | Description |
 |------------|-------------|
-| `Sales_Dashboard_Project.xlsx` | Main Excel file containing the interactive dashboard |
+| `Sales-Dashboard-project.xlsx` | Main Excel file containing the interactive dashboard |
 | `dashboard1.png` | Dashboard snapshot preview |
 | `README.md` | Project documentation file (this file) |
 
