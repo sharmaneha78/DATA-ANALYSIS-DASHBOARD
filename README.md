@@ -1,4 +1,4 @@
-# DATA-ANALYSIS-DASHBOARD
+# DATA-ANALYSIS-DASHBOARD USING EXCEL
 Comprehensive Excel dashboard for sales data analysis with pivot charts, slicers, and automated visual insights.
 # 📊 Supermarket Sales Dashboard (Excel Project)
 
